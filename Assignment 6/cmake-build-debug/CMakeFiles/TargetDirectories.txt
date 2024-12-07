@@ -1,0 +1,5 @@
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 6/cmake-build-debug/CMakeFiles/wordlistStatistics.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 6/cmake-build-debug/CMakeFiles/caesarCipher.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 6/cmake-build-debug/CMakeFiles/frequencyOfWords.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 6/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/sortingSearchingCombination.cpp
+iostream
+-
+

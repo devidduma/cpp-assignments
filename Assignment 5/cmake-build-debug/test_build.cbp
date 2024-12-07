@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test_build"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MrMonk">
+				<Option output="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/MrMonk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 MrMonk"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MrMonk/fast">
+				<Option output="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/MrMonk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 MrMonk/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayManipulation">
+				<Option output="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/ArrayManipulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayManipulation"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayManipulation/fast">
+				<Option output="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/ArrayManipulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayManipulation/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sortingSearchingCombination">
+				<Option output="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/sortingSearchingCombination" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 sortingSearchingCombination"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sortingSearchingCombination/fast">
+				<Option output="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/sortingSearchingCombination" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 sortingSearchingCombination/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devidduma/MEGA/Epoka\ University/Second\ Semester\ SS20/C\ Programming/Assignment\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/ArrayManipulation.cpp">
+			<Option target="ArrayManipulation"/>
+		</Unit>
+		<Unit filename="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/MrMonk.cpp">
+			<Option target="MrMonk"/>
+		</Unit>
+		<Unit filename="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/sortingSearchingCombination.cpp">
+			<Option target="sortingSearchingCombination"/>
+		</Unit>
+		<Unit filename="/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 4/cpp files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 4/cpp files/cmake-build-debug/CMakeFiles/hotPotato.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 4/cpp files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 4/cpp files/cmake-build-debug/CMakeFiles/parliament.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g  -rdynamic CMakeFiles/frequencyOfWords.dir/frequencyOfWords.cpp.o  -o frequencyOfWords 

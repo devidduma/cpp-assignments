@@ -1,0 +1,4 @@
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 7/cmake-build-debug/CMakeFiles/Product.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 7/cmake-build-debug/CMakeFiles/Time.dir

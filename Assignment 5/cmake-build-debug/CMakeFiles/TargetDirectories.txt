@@ -1,0 +1,5 @@
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/CMakeFiles/MrMonk.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/CMakeFiles/ArrayManipulation.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/CMakeFiles/sortingSearchingCombination.dir
+/home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 5/cmake-build-debug/CMakeFiles/edit_cache.dir
